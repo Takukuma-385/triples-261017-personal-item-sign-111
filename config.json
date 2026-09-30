@@ -4,7 +4,7 @@
   "variants": [
     { "variant_id": 89380811, "custom_name": "서연 SeoYeon" },
     { "variant_id": 89380848, "custom_name": "혜린 HyeRin" },
-    { "variant_id": 89380849, "custom_name": ""지우 JiWoo" },
+    { "variant_id": 89380849, "custom_name": "지우 JiWoo" },
     { "variant_id": 89380850, "custom_name": "채연 ChaeYeon" },
     { "variant_id": 89380851, "custom_name": "유연 YooYeon" },
     { "variant_id": 89380852, "custom_name": "수민 SooMin" },
@@ -15,33 +15,37 @@
     { "variant_id": 89380857, "custom_name": "코토네 Kotone" },
     { "variant_id": 89380858, "custom_name": "연지 YeonJi" },
     { "variant_id": 89380859, "custom_name": "니엔 Nien" },
-    { "variant_id": 22222222222, "custom_name": "成員B" },
-    { "variant_id": 33333333333, "custom_name": "成員C" },
-    { "variant_id": 44444444444, "custom_name": "成員D" },
-    { "variant_id": 55555555555, "custom_name": "成員E" },
-    { "variant_id": 22222222222, "custom_name": "成員B" },
-    { "variant_id": 33333333333, "custom_name": "成員C" },
-    { "variant_id": 44444444444, "custom_name": "成員D" },
-    { "variant_id": 55555555555, "custom_name": "成員E" },
-    { "variant_id": 22222222222, "custom_name": "成員B" },
-    { "variant_id": 33333333333, "custom_name": "成員C" },
-    { "variant_id": 44444444444, "custom_name": "成員D" },
-    { "variant_id": 55555555555, "custom_name": "成員E" },
-    { "variant_id": 22222222222, "custom_name": "成員B" },
-    { "variant_id": 33333333333, "custom_name": "成員C" },
-    { "variant_id": 44444444444, "custom_name": "成員D" },
-    { "variant_id": 55555555555, "custom_name": "成員E" }
+    { "variant_id": 89380860, "custom_name": "소현 SoHyun" },
+    { "variant_id": 89380861, "custom_name": "마유 Mayu" },
+    { "variant_id": 89380862, "custom_name": "린 Lynn" },
+    { "variant_id": 89380863, "custom_name": "주빈 JooBin" },
+    { "variant_id": 89380864, "custom_name": "하연 HaYeon" },
+    { "variant_id": 89380865, "custom_name": "시온 ShiOn" },
+    { "variant_id": 89380866, "custom_name": "채원 ChaeWon" },
+    { "variant_id": 89380867, "custom_name": "설린 Sullin" },
+    { "variant_id": 89380868, "custom_name": "서아 SeoAh" },
+    { "variant_id": 89380869, "custom_name": "지연 JiYeon" }
   ],
   "schedules": [
     {
-      "start": "2026-09-22 14:00",
-      "end": "2026-09-27 23:59",
+      "start": "2026-09-30 14:00",
+      "end": "2026-10-06 00:00",
       "interval_minutes": 240
     },
     {
-      "start": "2026-09-28 00:00",
-      "end": "2026-09-28 23:59",
+      "start": "2026-10-06 00:00",
+      "end": "2026-10-06 21:00",
       "interval_minutes": 30
+    },
+    {
+      "start": "2026-10-06 21:00",
+      "end": "2026-10-06 23:00",
+      "interval_minutes": 15
+    },
+    {
+      "start": "2026-10-06 23:00",
+      "end": "2026-10-07 00:00",
+      "interval_minutes": 5
     }
   ]
 }
