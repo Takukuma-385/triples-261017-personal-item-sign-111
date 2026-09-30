@@ -1,0 +1,47 @@
+{
+  "discord_webhook_url": "https://discord.com/api/webhooks/1554741126089670697/0LLja8TfTjiKyEdPZfgezf1ZPuv-HiHaReWUNdzqbAnZsXzxum37ZaJyS09r_x4Kpc-p",
+  "product_url": "https://www.kmonstar.com.tw/products/%E6%87%89%E5%8B%9F-261017-triples-lovepop-pt1-%E7%89%B9%E5%88%A5%E4%B8%80%E5%B0%8D%E4%B8%80%E7%A7%81%E7%89%A9%E7%B0%BD%E5%90%8D%E6%9C%83-in-taipei.json",
+  "variants": [
+    { "variant_id": 89380811, "custom_name": "서연 SeoYeon" },
+    { "variant_id": 89380848, "custom_name": "혜린 HyeRin" },
+    { "variant_id": 89380849, "custom_name": ""지우 JiWoo" },
+    { "variant_id": 89380850, "custom_name": "채연 ChaeYeon" },
+    { "variant_id": 89380851, "custom_name": "유연 YooYeon" },
+    { "variant_id": 89380852, "custom_name": "수민 SooMin" },
+    { "variant_id": 89380853, "custom_name": "나경 NaKyoung" },
+    { "variant_id": 89380854, "custom_name": "유빈 YuBin" },
+    { "variant_id": 89380855, "custom_name": "카에데 Kaede" },
+    { "variant_id": 89380856, "custom_name": "다현 DaHyun" },
+    { "variant_id": 89380857, "custom_name": "코토네 Kotone" },
+    { "variant_id": 89380858, "custom_name": "연지 YeonJi" },
+    { "variant_id": 89380859, "custom_name": "니엔 Nien" },
+    { "variant_id": 22222222222, "custom_name": "成員B" },
+    { "variant_id": 33333333333, "custom_name": "成員C" },
+    { "variant_id": 44444444444, "custom_name": "成員D" },
+    { "variant_id": 55555555555, "custom_name": "成員E" },
+    { "variant_id": 22222222222, "custom_name": "成員B" },
+    { "variant_id": 33333333333, "custom_name": "成員C" },
+    { "variant_id": 44444444444, "custom_name": "成員D" },
+    { "variant_id": 55555555555, "custom_name": "成員E" },
+    { "variant_id": 22222222222, "custom_name": "成員B" },
+    { "variant_id": 33333333333, "custom_name": "成員C" },
+    { "variant_id": 44444444444, "custom_name": "成員D" },
+    { "variant_id": 55555555555, "custom_name": "成員E" },
+    { "variant_id": 22222222222, "custom_name": "成員B" },
+    { "variant_id": 33333333333, "custom_name": "成員C" },
+    { "variant_id": 44444444444, "custom_name": "成員D" },
+    { "variant_id": 55555555555, "custom_name": "成員E" }
+  ],
+  "schedules": [
+    {
+      "start": "2026-09-22 14:00",
+      "end": "2026-09-27 23:59",
+      "interval_minutes": 240
+    },
+    {
+      "start": "2026-09-28 00:00",
+      "end": "2026-09-28 23:59",
+      "interval_minutes": 30
+    }
+  ]
+}
